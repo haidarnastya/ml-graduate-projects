@@ -1,10 +1,11 @@
 # Decision Trees, LASSO, and Boosting for Interpretable Regression #
 
 ## Overview ##
-In this project, I explored both interpretable models and regularized regression techniques across two datasets.
 
+In this project, I explored both interpretable models and regularized regression techniques across two datasets.
 The first part focused on using decision trees for a multi-label classification problem.  
 The second part focused on high-dimensional regression, where I compared classical linear models, regularization techniques (Ridge and LASSO), dimensionality reduction (PCR), and gradient boosting.
+
 ---
 
 ## Part 1 — Decision Trees as Interpretable Models (Acute Inflammations Dataset) ##
@@ -73,3 +74,4 @@ The datasets used in this project come from the UCI Machine Learning Repository 
 
 - Communities and Crime Dataset:  
   https://archive.ics.uci.edu/ml/datasets/Communities+and+Crime
+
